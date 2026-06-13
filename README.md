@@ -124,13 +124,7 @@ Automates build, test, and deployment processes.
 
 Add the following screenshots inside the `screenshots` folder:
 
-- Azure Resource Group
-- Azure Container Registry
-- Azure App Service
-- Azure DevOps Pipeline
-- Successful Build Logs
 - Successful Deployment Logs
-- Running Web Application
 
 ---
 
