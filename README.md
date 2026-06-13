@@ -37,7 +37,7 @@ The project showcases modern DevOps practices, automation, and cloud-native depl
 CodeAlpha_CICD_Azure/
 │
 ├── screenshots/
-│   ├── resource-group.png
+│   ├── deployment-success.png
 │
 ├── Dockerfile
 ├── README.md
